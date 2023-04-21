@@ -9,11 +9,19 @@
 
 ###
 
-<p align="left">I Use</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/chandresh-khuntia-abb77a245" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+</div>
 
 ###
 
-<img align="left" height="40" src="https://th.bing.com/th/id/OIP.W-PtkfGrSAbvn91pfFxJHwAAAA?pid=ImgDet&rs=1"  />
+<img align="left" height="45" src="https://th.bing.com/th/id/OIP.W-PtkfGrSAbvn91pfFxJHwAAAA?pid=ImgDet&rs=1"  />
 
 ###
 
@@ -31,18 +39,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chandreshkhuntia/chandreshkhuntia/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/chandresh-khuntia-abb77a245" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  <img src="https://profile-counter.glitch.me/chandreshkhuntia/count.svg?"  />
 </div>
 
 ###
