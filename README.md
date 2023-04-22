@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/chandresh-khuntia-abb77a245" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -22,7 +22,7 @@
 </div>
 
 ###
-
+<h3 align="left">Tools:</h3>
 <img align="left" height="45" src="https://th.bing.com/th/id/OIP.W-PtkfGrSAbvn91pfFxJHwAAAA?pid=ImgDet&rs=1"  />
 
 ###
@@ -39,6 +39,7 @@
 
 ###
 
+
 <br clear="both">
 
 <div align="left">
@@ -46,3 +47,8 @@
 </div>
 
 ###
+
+#
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=day)
+
