@@ -21,25 +21,16 @@
   </a>
 </div>
 
+
 ###
 <h3 align="left">Tools:</h3>
-<img align="left" height="45" src="https://th.bing.com/th/id/OIP.W-PtkfGrSAbvn91pfFxJHwAAAA?pid=ImgDet&rs=1"  />
-
-###
-
 <img align="left" height="55" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png"  />
 
-###
-
 <img align="left" height="45" src="https://www.tigloo.es/wp-content/uploads/2021/08/Power_BI_Logo-1.png"  />
-
-###
 
 <img align="left" height="45" src="https://blog.trdesigner.net/wp-content/uploads/logoAzureSql.png"  />
 
 ###
-
-
 <br clear="both">
 
 <div align="left">
@@ -49,6 +40,6 @@
 ###
 
 #
-### ✍️ Random Dev Quote
+### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=day)
 
