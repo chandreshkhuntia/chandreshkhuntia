@@ -1,4 +1,4 @@
-<h2 align="left">SELECT<br>'Chandresh Khuntia' AS name,<br>'Data Analyst' AS job_title,<br>'SQL, Excel, Power BI' AS skills,<br>'Data manipulation, modeling, visualization' AS strengths,<br>'Innovative solutions, business growth' AS motivation<br>FROM<br>bio<br>WHERE<br>name = 'Chandresh Khuntia'</h2>
+<h2 align="left">SELECT<br>'Chandresh Khuntia' AS name,<br>'Data Analyst' AS job_title,<br>'PYTHON, SQL, Excel, Power BI' AS skills,<br>'Data Manipulation, Data Modeling, Visualization' AS strengths,<br>'Problem Solving, Innovative Solutions, Business Growth' AS motivation<br>FROM<br>bio<br>WHERE<br>name = 'Chandresh Khuntia'</h2>
 
 ###
 
